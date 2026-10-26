@@ -1,0 +1,144 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`GifsApp > should render components properly 1`] = `
+<div>
+  <div
+    class="content-center"
+  >
+    <h1>
+      Buscador de Gifs
+    </h1>
+    <p>
+      Descubre y comparte el gif perfecto
+    </p>
+  </div>
+  <div
+    class="search-container"
+  >
+    <input
+      placeholder="Buscar Gifs"
+      type="text"
+      value=""
+    />
+    <button>
+      Buscar
+    </button>
+  </div>
+  <div
+    class="previous-searches"
+  >
+    <h2>
+      Busquedas previas
+    </h2>
+    <ul
+      class="previous-searches-list"
+    />
+  </div>
+  <div
+    class="gifs-container"
+  >
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Superman's Cake"
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVxbHY0dncxMHJlZXRvOTY3MXl5cHp0dWs4aG5iY3d0ZWhlcDM5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0GtVKtagi2GvWuY3vm/giphy.gif"
+      />
+      <h3>
+        Superman's Cake
+      </h3>
+      <p>
+        300
+        x
+        300
+         (1.5mb)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Funny Cat"
+        src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif"
+      />
+      <h3>
+        Funny Cat
+      </h3>
+      <p>
+        400
+        x
+        250
+         (1.5mb)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Happy BDay!"
+        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG40N2cyZm1iZGM2aWlhbHF1bnZmdzkxZ29idTY3ZzZkbnowNDg4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xatKdEypHxBjzabUPV/giphy.gif"
+      />
+      <h3>
+        Happy BDay!
+      </h3>
+      <p>
+        280
+        x
+        350
+         (1.5mb)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Thumbs Up"
+        src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif"
+      />
+      <h3>
+        Thumbs Up
+      </h3>
+      <p>
+        300
+        x
+        200
+         (1.5mb)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Elmo is the best"
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5zMmVsNDFzam56bmR6azl0bmFvbHQxdDczeDNzZTdxczhtejNrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.gif"
+      />
+      <h3>
+        Elmo is the best
+      </h3>
+      <p>
+        300
+        x
+        400
+         (1.5mb)
+      </p>
+    </div>
+    <div
+      class="gif-card"
+    >
+      <img
+        alt="Messi is the best"
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThyZXBwbHFtdHNpYnh4ZnN0aGswcWJydXNwdnpjaXV0eXNlYXp1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8BSJinJ8of9L0unCqW/giphy.gif"
+      />
+      <h3>
+        Messi is the best
+      </h3>
+      <p>
+        350
+        x
+        280
+         (1.5mb)
+      </p>
+    </div>
+  </div>
+</div>
+`;
