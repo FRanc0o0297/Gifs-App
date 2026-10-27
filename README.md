@@ -1,5 +1,6 @@
 # React + TypeScript + Vite
-
+La finalidad de este proyecto es crear algo simple para realizar el testing de sus componentes y asi lograr un buen porcentaje de coverage en general, con el fin de que cada uno de sus componentes y hooks funcionene como se espera.
+Puedes ver la app corriendo en:
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
 Currently, two official plugins are available:
